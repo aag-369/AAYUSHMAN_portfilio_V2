@@ -27,7 +27,7 @@ export const HeroSection = () => {
             &gt; INITIALIZING QUANTUM INTERFACE...
           </motion.div>
 
-          <h1 className="font-orbitron font-bold text-[42px] md:text-[72px] text-white leading-tight" style={{ textShadow: '0 0 60px rgba(0,255,255,0.4)' }}>
+          <h1 className="font-orbitron font-bold text-[36px] md:text-[56px] lg:text-[62px] text-white leading-tight whitespace-nowrap" style={{ textShadow: '0 0 60px rgba(0,255,255,0.4)' }}>
             {name.split("").map((char, index) => (
               <motion.span
                 key={index}

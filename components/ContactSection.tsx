@@ -42,10 +42,10 @@ export const ContactSection = () => {
            <div className="w-full h-px bg-quantum/10 my-8" />
 
            <div className="flex gap-4">
-              <a href="#" className="w-11 h-11 rounded-full glassmorphism flex items-center justify-center text-white hover:text-quantum hover:scale-110 hover:shadow-[0_0_15px_rgba(0,255,255,0.4)] transition-all">
+              <a href="https://github.com/aag-369" target="_blank" rel="noopener noreferrer" className="w-11 h-11 rounded-full glassmorphism flex items-center justify-center text-white hover:text-quantum hover:scale-110 hover:shadow-[0_0_15px_rgba(0,255,255,0.4)] transition-all">
                  <Github size={20} />
               </a>
-              <a href="#" className="w-11 h-11 rounded-full glassmorphism flex items-center justify-center text-white hover:text-quantum hover:scale-110 hover:shadow-[0_0_15px_rgba(0,255,255,0.4)] transition-all">
+              <a href="https://www.linkedin.com/in/aayushman-ghatak-0a46b021b" target="_blank" rel="noopener noreferrer" className="w-11 h-11 rounded-full glassmorphism flex items-center justify-center text-white hover:text-quantum hover:scale-110 hover:shadow-[0_0_15px_rgba(0,255,255,0.4)] transition-all">
                  <Linkedin size={20} />
               </a>
            </div>
