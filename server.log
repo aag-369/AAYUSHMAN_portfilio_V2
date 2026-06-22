@@ -1,0 +1,27 @@
+
+> aayushman-portfolio@0.1.0 dev
+> next dev -H 0.0.0.0
+
+  ▲ Next.js 14.2.15
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 1867ms
+ ○ Compiling / ...
+ ✓ Compiled / in 17.5s (3195 modules)
+ GET / 200 in 18053ms
+ ✓ Compiled in 1036ms (1585 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 2.1s (3184 modules)
+ GET /robots.txt 404 in 2234ms
+ GET / 200 in 150ms
+ GET / 200 in 121ms
+ GET /robots.txt 404 in 42ms
+ GET / 200 in 90ms
+ GET / 200 in 66ms
